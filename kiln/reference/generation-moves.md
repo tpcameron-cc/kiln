@@ -2,8 +2,9 @@
 
 Use several different moves per run; never generate the whole pool with one
 move. Combine at least one seed ingredient with at least one profile fact in
-every idea. Examples use the default profile (paralegal in debt relief, heading
-to law school; NASCAR, IMSA, iRacing; audio gear; Python/SQL/R).
+every idea. The examples assume a sample profile (works in consumer law, follows
+motorsport and sim racing, likes audio gear, writes Python/SQL). Swap in the
+real profile's facts when you use a move.
 
 ### 1. Collide a seed data source with an interest
 Take a `data_sources` draw and force it into a profile interest.

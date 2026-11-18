@@ -8,8 +8,7 @@ build/
 .claude/settings.local.json
 
 # Generated ideas and briefs belong in ~/.kiln, never in this repo
-examples/
-kiln/examples/
+# (kiln/examples/ is a fixed, curated set: see CLAUDE.md)
 briefs/
 runs/
 *.brief.md

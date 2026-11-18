@@ -19,12 +19,10 @@ Reject reasons from the ledger (newest first):
 
 ## If there is no profile yet
 
-Run `kiln profile init` — it writes a starter profile seeded with the user's
-background (economics + CS minor; Python, SQL, R, Adobe Analytics, Salesforce;
-paralegal in debt relief; antitrust/white-collar/AML/securities-fraud interests;
-law-school applicant; NASCAR, IMSA, iRacing and sim-racing hardware; music and
-audio gear; cars; wants practical, data-grounded ideas, no hype). Then do the
-interview below to fill the gaps.
+Run `kiln profile init`. It writes an empty starter profile with headings and
+placeholder hints. Then run the full interview below, plus one more question
+about background (study, day job, what they're working toward), and replace
+every placeholder line with their answers.
 
 ## If the user asked for a specific change
 

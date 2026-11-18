@@ -176,6 +176,10 @@ Checked the predictions endpoint live (200, 30 days of hi/lo times). Brief writt
 > /kiln:ledger reject <slug> <reason>
 ```
 
+Real output from a run: [examples/idea-run.example.md](examples/idea-run.example.md)
+(three ideas, all needing no keys) and the brief it led to,
+[examples/fraud-loss-cliff.brief.example.md](examples/fraud-loss-cliff.brief.example.md).
+
 When a data source fails its live check (for example, it turns out to need a login),
 `/kiln:brief` stops, reports what it found, and suggests the smallest fix instead of
 writing a brief it can't back up.

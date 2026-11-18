@@ -11,29 +11,20 @@ TEMPLATE = """# Kiln taste profile
 _Last updated: {today}. Edit freely, or run /kiln:profile._
 
 ## Fluent in
-- Python, SQL, R
-- Adobe Analytics, Salesforce / CRM data
+- (languages, tools, data skills)
 
 ## Platforms I use
-- Windows 11 desktop; iRacing on PC
-- (add: phone OS, editor, browser, note app…)
+- (OS, phone, editor, browser, note app, hardware…)
 
 ## Keys and accounts I already have
 _Ideas that use these aren't penalized for needing a key._
-- GitHub (gh CLI logged in)
-- iRacing account
+- (e.g. GitHub via the gh CLI)
 
 ## Background
-- Economics major, computer science minor.
-- Day job: paralegal handling creditor negotiations and settlements (debt relief).
-- Applying to law school.
+- (study, day job, what you're working toward)
 
 ## Interests
-- Antitrust, white-collar crime, AML, securities fraud
-- Motorsports: NASCAR, IMSA
-- iRacing and sim-racing hardware
-- Music and audio gear
-- Cars
+- (specific beats broad: "IMSA endurance racing", not "sports")
 
 ## Recurring annoyances
 - (add the 5-minute chores you keep doing by hand)
