@@ -149,12 +149,14 @@ Mark the idea as `briefed` in the ledger.
 
 ## `/kiln:profile`
 
-This skill creates and edits `~/.kiln/profile.md` through a short interview: languages and tools I'm fluent in, platforms I use, interests, recurring annoyances, ideas I'm tired of, and how ambitious I want ideas to be. It also adds a "taste log" built from reject reasons in the ledger. Seed my profile with this starting point, which I can edit:
+This skill creates and edits `~/.kiln/profile.md` through a short interview: languages and tools I'm fluent in, platforms I use, interests, recurring annoyances, ideas I'm tired of, and how ambitious I want ideas to be. It also adds a "taste log" built from reject reasons in the ledger. Seed the profile with a starting point the user can edit:
 
-- Economics major with a computer science minor. Comfortable with Python, SQL, R, Adobe Analytics, Salesforce/CRM.
-- Day job: paralegal handling creditor negotiations and settlements (debt relief). Interested in antitrust, white-collar crime, AML and securities fraud. Applying to law school.
-- Interests: motorsports (NASCAR, IMSA), iRacing and sim-racing hardware, music and audio gear, cars.
-- I like ideas grounded in real data and practical use. I don't want hype.
+- Education and the languages and tools they're comfortable with.
+- Day job and the professional topics they're interested in.
+- Hobbies and interests, as specific as possible.
+- A preference for ideas grounded in real data and practical use, with no hype.
+
+(The user's real seed profile is kept in `~/.kiln/profile.md`, not in this repo.)
 
 ## Subagent notes
 
