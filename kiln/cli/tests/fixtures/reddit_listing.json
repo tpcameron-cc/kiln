@@ -1,0 +1,35 @@
+{
+  "_comment": "Hand-built in the documented reddit.com/search.json Listing shape (reddit.com returned 403 to unauthenticated clients when fixtures were recorded).",
+  "kind": "Listing",
+  "data": {
+    "after": null,
+    "children": [
+      {
+        "kind": "t3",
+        "data": {
+          "title": "I made a free tool that overlays two iRacing laps",
+          "subreddit": "iRacing",
+          "permalink": "/r/iRacing/comments/abc123/i_made_a_free_tool_that_overlays_two_iracing_laps/",
+          "url": "https://github.com/example/lap-overlay",
+          "selftext": "It reads <b>.ibt</b> files and draws throttle &amp; brake traces.",
+          "score": 412,
+          "num_comments": 57,
+          "created_utc": 1731000000
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "title": "Telemetry apps worth paying for?",
+          "subreddit": "simracing",
+          "permalink": "/r/simracing/comments/def456/telemetry_apps_worth_paying_for/",
+          "url": "https://www.reddit.com/r/simracing/comments/def456/telemetry_apps_worth_paying_for/",
+          "selftext": "",
+          "score": 88,
+          "num_comments": 120,
+          "created_utc": 1700000000.0
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_comment": "Hand-built in the Product Hunt v2 GraphQL posts(topic:) response shape (no token was available when fixtures were recorded).",
+  "data": {
+    "posts": {
+      "edges": [
+        {
+          "node": {
+            "name": "Garage Telemetry",
+            "tagline": "Lap comparison for sim racers",
+            "url": "https://www.producthunt.com/posts/garage-telemetry",
+            "website": "https://example.com/garage",
+            "votesCount": 321,
+            "createdAt": "2024-05-01T07:01:00Z"
+          }
+        },
+        {
+          "node": {
+            "name": "Pit Wall",
+            "tagline": "Strategy timer for endurance races",
+            "url": "https://www.producthunt.com/posts/pit-wall",
+            "website": null,
+            "votesCount": 45,
+            "createdAt": "2023-02-11T08:00:00Z"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+# Constraints that force a sharper design. Pick one; obey it literally.
+works fully offline after a one-time download
+zero UI: the output is a file
+uses only one keyboard key
+answers exactly one question, every time it runs
+output fits on one index card
+output fits in a single tweet-length line
+must run in under one second
+no database: state lives in one plain-text file
+no network calls at runtime; data is baked in at build time
+must be useful the first time it runs, with no setup
+no configuration file, no flags in the common case
+a single file of source code under 300 lines
+only standard library — no dependencies
+runs on a schedule and you never open it
+the only interaction is a notification
+must work from a phone browser
+must be printable in black and white
+colorblind-safe and readable at a glance from 2 meters
+must explain its own answer in one sentence
+everything it shows links to a primary source
+has a hard 'nothing to report' state that is common and calm
+must survive the data source being down (shows last good data with age)
+reads a file you already have on disk; writes nothing else
+output is diffable (plain text that changes meaningfully over time)
+uses sound instead of visuals
+uses a physical object (printer, LED, button)
+built for exactly one person: you
+the demo must take under 30 seconds
+must handle the worst real-world input you can find
+no LLM calls
+at most one LLM call, and it can't be the core value
+read-only: it can never change anything outside itself
+reversible: every action it takes has an undo
+must show uncertainty explicitly (ranges, confidence, 'unknown')
+measured in money: the output is a dollar figure
+measured in time: the output is a duration or a deadline
+compares exactly two things
+answers 'what changed since last time?'
+answers 'what should I do next?'
+answers 'is this normal?'
+works with data that's at least 20 years old
+works with data that's less than 5 minutes old
+one screen, no scrolling
+must be explainable to a non-technical friend in one sentence
+everything is computed locally; nothing personal leaves the machine
+the user types nothing — it reads context (clipboard, open file, URL)
+takes a URL as its only input
+takes a file as its only input
+outputs a calendar event
+outputs a ranked list of at most five things

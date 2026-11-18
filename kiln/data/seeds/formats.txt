@@ -1,0 +1,62 @@
+# File formats and media that can be an input, an output or a twist.
+iRacing .ibt telemetry file
+iRacing .sto car setup file
+MoTeC .ld log file
+GPX track
+FIT file from a watch or bike computer
+GTFS zip
+GeoJSON
+KML / KMZ
+.ics calendar file
+vCard (.vcf)
+EML / MBOX email archive
+PDF court filing
+PDF bank or credit-card statement
+OFX / QFX bank export
+CSV export from a CRM
+Salesforce report export
+Adobe Analytics data feed
+XBRL financial statement
+SEC EDGAR XML (Form 4, 13F)
+OFAC SDN XML
+Bluebook citation strings
+Word .docx with tracked changes
+Markdown with YAML frontmatter
+Jupyter notebook
+SQLite database
+Parquet file
+JSON Lines log
+Apache / nginx access log
+Browser history SQLite (Chrome History file)
+Chrome bookmarks JSON
+Kindle My Clippings.txt
+Anki .apkg deck
+EPUB
+Podcast RSS feed
+OPML subscription list
+YouTube watch-history export (Google Takeout)
+Spotify extended streaming history JSON (privacy export)
+Last.fm scrobble CSV
+MIDI file
+WAV / FLAC audio
+Room impulse response (WAV)
+REW measurement file
+AutoEq / squig.link headphone frequency-response CSV
+Guitar Pro / MusicXML tab
+EXIF metadata in photos
+Screenshot PNG
+Receipt photo
+Receipt-printer ESC/POS bytes
+SVG poster
+LaTeX document
+Mermaid / Graphviz diagram
+ASCII table
+Plain-text TODO.txt
+.env file
+Dockerfile
+requirements.txt / pyproject.toml
+package-lock.json
+Git log
+CODEOWNERS file
+robots.txt and sitemap.xml
+HAR network capture

@@ -1,0 +1,50 @@
+# Twists that turn an obvious idea into a non-obvious one.
+make an invisible thing visible
+invert the usual workflow (start from the output, work backwards)
+port a tool from another profession
+build the missing CLI for a site that only has a GUI
+turn a boring public dataset into a delightful artifact
+the tool an expert quietly maintains as a spreadsheet
+cross the format of one domain with the content of another
+make a slow feedback loop instantaneous
+make the deadline the interface (everything is a countdown)
+show what changed, not what is
+compare yourself only to your own past
+make the rare event loud and the common event silent
+replace a dashboard with a single yes/no
+turn a document into a checklist
+turn a checklist into a document
+read the fine print so nobody else has to
+translate jargon from one field into another field's jargon
+show the paper trail behind a number
+find the outlier in something everyone assumes is uniform
+rank things that are never ranked
+put a price on something that's normally free
+put a time on something that's normally timeless
+build the 'diff' for something that has no diff
+build the 'undo' for something that has no undo
+build the 'search' for something you can only browse
+a calendar for something that isn't usually scheduled
+a map of something that isn't usually mapped
+a sound for something that's usually silent
+a physical object for something that's usually on a screen
+reverse-engineer the scoring rule people are judged by
+simulate the other side of a negotiation
+pre-mortem: show how this will fail before it does
+the 'second opinion' tool: check a professional's work
+the tool for the day after (aftermath, follow-up, cleanup)
+the tool for the five minutes before (preparation, warm-up)
+make an annual ritual effortless
+make a one-time scary task a guided script
+measure a thing people only ever guess at
+connect two public datasets nobody has joined
+use a data source for something its publishers never imagined
+be the archivist: capture something that disappears
+generate a citation trail automatically
+explain why, not just what
+give a hobby the rigor of a profession
+give a profession the delight of a hobby
+replace an argument with a number
+make the boring parts of a hobby automatic so the fun part is bigger
+shrink a 30-minute task to 30 seconds
+detect a pattern a human would need years to notice

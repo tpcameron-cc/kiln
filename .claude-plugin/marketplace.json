@@ -1,0 +1,16 @@
+{
+  "name": "kiln-local",
+  "owner": {
+    "name": "tpcameron-cc"
+  },
+  "metadata": {
+    "description": "Local marketplace for the Kiln project-idea plugin."
+  },
+  "plugins": [
+    {
+      "name": "kiln",
+      "source": "./kiln",
+      "description": "Finds one-day project ideas worth building, checked against prior art."
+    }
+  ]
+}

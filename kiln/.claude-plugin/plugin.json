@@ -1,0 +1,12 @@
+{
+  "name": "kiln",
+  "displayName": "Kiln",
+  "version": "0.1.0",
+  "description": "Finds one-day project ideas worth building: seeded generation, a slop red-team, parallel prior-art scouts, a local idea ledger, and a paste-ready Claude Code build brief.",
+  "author": {
+    "name": "tpcameron-cc"
+  },
+  "repository": "https://github.com/tpcameron-cc/kiln",
+  "license": "MIT",
+  "keywords": ["ideas", "prior-art", "side-projects", "brainstorming"]
+}

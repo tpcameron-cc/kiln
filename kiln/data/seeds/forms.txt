@@ -1,0 +1,57 @@
+# The shape the thing takes. Format: form — note
+CLI that prints one screen of answer — no flags needed for the common case
+CLI with a --watch mode that rings the terminal bell when something changes
+Browser extension that adds one button to one specific website
+Browser extension that rewrites a page you already visit daily
+Bookmarklet — zero install, one click on the page you're already on
+Userscript (Tampermonkey) for a single site
+Single self-contained HTML file you double-click — no server
+Local web dashboard on localhost answering exactly one question
+TUI (Textual / Bubble Tea) you leave open in a terminal tab
+Windows system-tray app / macOS menu-bar app showing one number
+Raycast or Alfred extension — keystroke → answer
+PowerToys Run plugin
+Obsidian plugin
+VS Code extension that annotates files you already open
+Git hook that blocks or annotates a commit
+iCal / .ics feed you subscribe to in your normal calendar
+RSS feed generated from something that has no RSS feed
+Email digest sent to yourself every morning
+Printable PDF you'd actually tape to a wall or put in a binder
+Physical printout on a receipt printer
+Desktop wallpaper that regenerates with live data
+Lock-screen / phone home-screen widget (via Scriptable or a PWA)
+SMS or push notification via ntfy.sh — no app to build
+Discord or Slack bot that answers in one channel
+Static site generated nightly by GitHub Actions
+Google Sheets custom function (Apps Script)
+Excel add-in / Power Query connector
+Jupyter / Quarto notebook that renders a report
+Datasette instance over a SQLite file you built
+SQLite file + saved queries, shipped as the product
+DuckDB macro library / one SQL file that answers questions over a public dataset
+Stream Deck plugin — physical button
+OBS overlay (browser source) for streaming
+SimHub dashboard or plugin
+Arduino / ESP32 gadget reading a feed and lighting LEDs
+MIDI device or MIDI-generating script
+Audio file — the output is something you listen to
+Generated poster / data-art PNG
+Map tile layer or GeoJSON you drop into an existing map
+KML for Google Earth
+Spreadsheet template with formulas that do the thinking
+Checklist generator that outputs a fillable PDF
+Diff tool for one specific file format
+Linter for one specific kind of document
+Validator that says "this file is wrong because…"
+Converter: format A → format B, one direction, done perfectly
+Watch-folder daemon: drop a file in, get a better file out
+Clipboard tool: copy X, paste Y
+Screenshot → structured data tool
+Calendar-aware timer (counts down to the next real-world event)
+Quiz / flashcard deck generated from real data (Anki .apkg)
+Text adventure / tiny game built on real data
+Voice memo → structured log pipeline
+Webhook receiver that turns events into a log you'd read
+Local search engine over a folder of PDFs
+A man page / cheat sheet generated from a live source

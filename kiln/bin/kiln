@@ -1,0 +1,9 @@
+#!/usr/bin/env sh
+# Runs the Kiln CLI from the plugin's own cli/ project via uv.
+# (Works where installed .exe launchers are blocked by Windows Application Control.)
+ROOT="$(cd "$(dirname "$0")/.." && pwd)"
+if ! command -v uv >/dev/null 2>&1; then
+  echo "kiln: 'uv' not found. Install it from https://docs.astral.sh/uv/ (needs Python 3.11+)." >&2
+  exit 127
+fi
+exec uv run --quiet --project "$ROOT/cli" python -m kiln "$@"
